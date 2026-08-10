@@ -18,4 +18,4 @@ User-agent: DotBot
 User-agent: CCBot
 Disallow: /
 
-Sitemap: https://fezbet-777.pages.dev/sitemap.xml
+Sitemap: https://fezbet-777-01p.pages.dev/sitemap.xml
